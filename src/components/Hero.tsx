@@ -3,7 +3,7 @@ import { ArrowRight, MessageCircle, Users, BarChart3, Shield } from "lucide-reac
 
 const Hero = () => {
   const stats = [
-    { value: "1.023.169", label: "Pesan siar masyarakat terkirim" },
+    { value: "544.000", label: "Pesan siar masyarakat terkirim" },
     { value: "528.409.802", label: "Balasan pesan diproses melalui berbagai kanal" },
     { value: "92.183.440", label: "Tampilan halaman aplikasi PWA" },
     { value: "112+ Juta", label: "Pengguna aktif di seluruh Indonesia" },
